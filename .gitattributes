@@ -1,2 +1,2 @@
 * linguist-detectable=false
-*.json linguist-detectable=true
+*.md linguist-detectable=true
